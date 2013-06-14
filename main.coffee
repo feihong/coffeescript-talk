@@ -1,6 +1,6 @@
 ###
-Implement a shuffle() function that randomly rearranges the elments in a given
-array. Demonstrate
+Implement a shuffle() function that randomly rearranges the elements in a given
+array. Also demo its usage and effect.
 ###
 
 main = ->
@@ -34,6 +34,6 @@ display = (array) ->
             border: 1px solid black;
             padding: 5px; margin: 5px;
             """
-        para.append "<span style=\"#{ style }\">#{ el }</span>"
+        para.append "<span style=\"#{ style }\">#{ char }</span>"
 
 main()
