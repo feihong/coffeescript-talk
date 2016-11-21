@@ -1,6 +1,8 @@
 # Ultimate Language Shootout IV: CoffeeScript
 
-Source code for a talk on CoffeeScript given for ChiPy on July 11, 2013
+July 11, 2013
+
+Slides and source code for a talk on CoffeeScript given at ChiPy's annual Ultimate Language Shootout.
 
 ## Links
 
